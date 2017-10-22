@@ -20,3 +20,6 @@
         负载均衡
         断路器
         分布式消息传递
+  4、三者的关系：
+        微服务是一种架构的理念，提出了微服务的设计原则，从理论为具体的技术落地提供了指导思想。Spring Boot是一套快速配置脚手架，可以基于Spring Boot快速开发单个微服务；Spring Cloud是一个基于Spring Boot实现的服务治理工具包；Spring Boot专注于快速、方便集成的单个微服务个体，Spring Cloud关注全局的服务治理框架。
+Spring Boot/Cloud是微服务实践的最佳落地方案。
